@@ -1,3 +1,4 @@
+
 ## Selecting Elements Lab
 
 ### Introduction
@@ -22,9 +23,9 @@ Go ahead and select the JavaScript tab and you'll see some JavaScript code
 
 ```javascript
 //Enter querySelector Code here
-var header = "ENTER HEADER CODE HERE"
-var linkText = "ENTER LINK TEXT CODE HERE"
-var linkHref = "ENTER LINK HREF CODE HERE"
+var header = document.querySelector("#header").innerHTML
+var linkText = "computer scientist"
+var linkHref = "https://en.wikipedia.org/wiki/Computer_scientist"
 
 
 // NO NEED TO MODIFY BELOW HERE
