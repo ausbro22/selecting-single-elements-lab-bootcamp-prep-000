@@ -25,7 +25,7 @@ Go ahead and select the JavaScript tab and you'll see some JavaScript code
 //Enter querySelector Code here
 var header = document.querySelector("#header").innerHTML
 var linkText = "computer scientist"
-var linkHref = ""
+var linkHref = "https://en.wikipedia.org/wiki/Computer_scientist"
 
 
 // NO NEED TO MODIFY BELOW HERE
